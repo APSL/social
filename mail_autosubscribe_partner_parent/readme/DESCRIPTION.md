@@ -1,0 +1,1 @@
+This module extends mail_autosubscribe functionality to add the partner parent in copy of their child partner documents.
